@@ -1,6 +1,6 @@
 # HMTAPI
 
-HMTAPI is an API and utility library developed by **TitanSMP** in cooperation with **HM Gaming**.
+HMTAPI is a plugin developed by **TitanSMP** in cooperation with **HM Gaming**.
 
 This repository is a reference repository under the HM Gaming organization. The active source code and development are maintained by TitanSMP.
 
